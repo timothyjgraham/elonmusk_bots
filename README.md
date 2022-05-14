@@ -2,7 +2,7 @@
 
 <img align="right" width="400" height="300" src="https://user-images.githubusercontent.com/11286959/168449783-99ea56d3-612f-45ab-aa90-de8324e92dde.png">
 
-I collected data on the most recent 14000 followers of Elon Musk's Twitter account (@elonmusk) and ran the Botometer bot detection model on all accounts that have tweeted at least once (n=4267 accounts).
+I collected data on the most recent 14000 followers of Elon Musk's Twitter account (@elonmusk) and ran the Botometer bot detection model on all accounts that have tweeted at least once (n=4267 accounts). The analysis has been posted in this [Twitter thread](https://twitter.com/timothyjgraham/status/1525600180107870209).
 
 The results suggest that 8.6% (n=367) accounts are bots. 
 
