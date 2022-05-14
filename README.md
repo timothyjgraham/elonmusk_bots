@@ -10,4 +10,7 @@ I used the Completely Automated Probability (CAP) score, which is defined as the
 
 I set a strict threshold of 0.95 to classify an account as a bot. This means that we are willing to accept a false positive rate of 5%, or in other words 19 times out of 20 we will be correct when categorising an account as a bot.
 
-This repository contains a CSV file with the Botometer scores for each of the 4267 accounts under examination.
+This repository contains:
+
+1. CSV file with the Botometer scores for each of the 4267 accounts under examination.
+2. Plain text file with user IDs of 14000 accounts that recently followed @elonmusk.
